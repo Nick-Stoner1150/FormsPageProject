@@ -6,7 +6,7 @@
 
 .navbuttons {
     color: white;
-    background-color: blue;
+    background-color: rgb(38, 137, 243);
     float: right;
     border: white outset 1px;
     padding: 10px 10px;
@@ -48,6 +48,9 @@
     margin: 10% auto;
     width: 90%;
     padding: 5px 5px;
+}
 
-
+.icons {
+    width: 33px;
+    padding:  1em;
 }
