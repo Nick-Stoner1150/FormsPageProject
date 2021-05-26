@@ -1,5 +1,5 @@
 .navbar {
-    border-bottom: solid 1px gray;
+    border-bottom: solid 3px gray;
     height: 10%;
     background-color: white;
 }
@@ -11,7 +11,9 @@
     border: white outset 1px;
     padding: 10px 10px;
     margin: 1% 1%;
-
+    height: 3em;
+    width: 10em;
+    text-align center;
 }
 
 .text-boxes {
@@ -24,7 +26,7 @@
 }
 
 .form-style {
-    border: 1px outset rgb(206, 204, 204);
+    border: 3px outset rgb(206, 204, 204);
     margin: 10% auto;
     background-color: white;
     width: 20%;
