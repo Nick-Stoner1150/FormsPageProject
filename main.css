@@ -1,6 +1,11 @@
+body {
+    margin: 0%;
+    background-color: rgb(106, 186, 252);
+}
+
 .navbar {
     border-bottom: solid 3px gray;
-    height: 10%;
+    height: 60px;
     background-color: white;
 }
 
@@ -53,6 +58,6 @@
 }
 
 .icons {
-    width: 33px;
-    padding:  1em;
+    width: 8%;
+    padding:  5%;
 }
