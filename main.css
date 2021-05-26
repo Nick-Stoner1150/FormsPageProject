@@ -1,1 +1,53 @@
-git 
+.navbar {
+    border-bottom: solid 1px gray;
+    height: 10%;
+    background-color: white;
+}
+
+.navbuttons {
+    color: white;
+    background-color: blue;
+    float: right;
+    border: white outset 1px;
+    padding: 10px 10px;
+    margin: 1% 1%;
+
+}
+
+.text-boxes {
+    display: block;
+    margin: 10% auto;
+    width: 90%;
+    box-sizing: border-box;
+    padding: 5px 5px;
+    
+}
+
+.form-style {
+    border: 1px outset rgb(206, 204, 204);
+    margin: 10% auto;
+    background-color: white;
+    width: 20%;
+    height: 60%;
+}
+
+.form-style2 {
+    padding: 5% 5%;
+    
+}
+
+.form-style2 h3 {
+    padding-left: 5%;
+    font-size: 22px;
+}
+
+.form-style2 button {
+    display: block;
+    color: white;
+    background-color: blue;
+    margin: 10% auto;
+    width: 90%;
+    padding: 5px 5px;
+
+
+}
